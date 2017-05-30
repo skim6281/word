@@ -38,8 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'words.apps.WordsConfig',
-    'webpack_loader'
+    'webpack_loader',
+    'api'
 ]
 
 STATICFILES_DIRS = (

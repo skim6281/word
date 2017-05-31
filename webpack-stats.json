@@ -1,1 +1,1 @@
-{"status":"done","chunks":{"main":[{"name":"bundle.js","path":"/Users/Sam/word/assets/bundles/bundle.js"}]}}
+{"status":"done","error":"ModuleNotFoundError","message":"Module not found: Error: Can't resolve 'word_form' in '/Users/Sam/word/assets/js'","chunks":{"main":[{"name":"bundle.js","path":"/Users/Sam/word/assets/bundles/bundle.js"}]}}

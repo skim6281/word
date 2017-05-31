@@ -5,4 +5,4 @@ from .models import Word
 class WordSerializer(serializers.ModelSerializer):
     class Meta:
         model = Word
-        fields = ('text')
+        fields = ('id','text',)
